@@ -1,7 +1,9 @@
 ## About Me
-I am a dedicated Business Analytics student pursuing a BSc at the University of Amsterdam. Currently, I am focused on enhancing my skills through a rigorous upskilling program at Turing College.
+A dedicated Business Analytics student pursuing a BSc at the University of Amsterdam. Currently, finishing on enhancing my Data Analytics skills through a rigorous upskilling program at Turing College, a WoolfColleges associate.
 
 ## Academic Background
+- **Degree:** Bachelor of Science in Business Analytics
+- **University:** University of Amsterdam
 - **Degree:** Bachelor of Science in Business Analytics
 - **University:** University of Amsterdam
 
