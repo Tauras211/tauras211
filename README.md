@@ -1,11 +1,10 @@
-## About Me
+## About Me ✨💬 
 A dedicated Business Analytics student pursuing a BSc at the University of Amsterdam. Currently, finishing on enhancing my Data Analytics skills through a rigorous upskilling program at Turing College, a WoolfColleges associate.
 
 ## Academic Background
 - **Degree:** Bachelor of Science in Business Analytics
 - **University:** University of Amsterdam
-<br>
-</br>
+<br></br>
 - **Online College:** Turing College
 
 ## Skills and Interests
@@ -28,7 +27,6 @@ Feel free to explore my repositories to see my projects and contributions. I am 
 </br>
 
 
- ✨💬 
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
@@ -71,9 +69,6 @@ Feel free to explore my repositories to see my projects and contributions. I am 
 </p>
  
 
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
