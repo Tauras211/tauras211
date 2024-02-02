@@ -4,7 +4,9 @@ A dedicated Business Analytics student pursuing a BSc at the University of Amste
 ## Academic Background
 - **Degree:** Bachelor of Science in Business Analytics
 - **University:** University of Amsterdam
-- **University:** Turing College
+
+  
+- **Online College:** Turing College
 
 ## Skills and Interests
 - Data Analysis
