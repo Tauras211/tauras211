@@ -79,7 +79,8 @@ Feel free to explore my repositories to see my projects and contributions. I am 
 </br>
 </br>
 </br>
+<a href="https://www.linkedin.com/in/tauras-burneika/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
+</a>
 *************
 
