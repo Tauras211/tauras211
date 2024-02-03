@@ -5,31 +5,22 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=tauras211" alt="TaurasBurneika" />
+<img src="https://img.shields.io/badge/📃_CV-000000?style=for-the-badge" />
 
-## ✨ About Me
+
+
+
+
+<h1 align='center'>
+  Hi there 👋, I'm Tauras 👨‍💻
+</h1>
+</br>
+</br>
+<p align='center'>
 A dedicated Business Analytics student pursuing a BSc at the University of Amsterdam. Currently, finishing on enhancing my Data Analytics skills through a rigorous upskilling program at Turing College, a WoolfColleges associate.
+</p>
 
-## 🎓Academic Background
-
-- **University:** University of Amsterdam, 2022 - Present
-  - **Degree:** Bachelor of Science in Business Analytics
-<br></br>
-- **Online College:** Turing College, 2023-2024
-  - **Course:** Data Analytics
-<br></br>
-- **Diploma:** International Baccalaureate (IBDP), 2020-2022
-  - **Score** 41/45
-  
-
-## Skills and Interests
-- 💰 Finance
-- 📊 Data Analysis
-- 📉 Statistical Analysis
-- 🤖 Machine Learning
-- 📈 Business Intelligence
-
-
-## What I use
+<h1 align='center'> What I use </h1>
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"  height="45">
@@ -43,12 +34,38 @@ A dedicated Business Analytics student pursuing a BSc at the University of Amste
 </br>
 
 </p>
+</br>
+</br>
+<details>
+  <summary align='center'>📃📃📃 </summary>
+
+<h1 align='center'> 🎓Academic Background </h1>
+
+- 📖 **Bsc Business Analytics**\
+📆 2022 - Present\
+📍**University of Amsterdam (UvA)** - Amsterdam, NL
+
+
+- 📖 **Data Analytics Course**\
+📆 2023 - 2024\
+📍**Turing College** - Online
+
+
+- 📖 **International Baccalaureate Diploma (IBDP)**\
+📆 2020 - 2022\
+**Score:** 41/45\
+📍**Vilnius Lyceum/IB** - Vilnius, Lithuania
+</details>
+
+
+<h1 align='center'> Skills and Interests </h1>
+<h3 align='center'>💰 Finance 📊 Data Analysis 📉 Statistical Analysis </br> 🤖 Machine Learning  📈 Business Intelligence </h3>
+
 
 </br>
 </br>
-Feel free to explore my repositories to see my projects and contributions. I am passionate about leveraging data to drive informed decision-making. Let's connect and collaborate!
+<p align='center'>Feel free to explore my repositories to see my projects and contributions. I am passionate about leveraging data to drive informed decision-making. Let's connect and collaborate! </p>
 </br>
 </br>
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-tauras_burneika-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haany-ali)-->
 *************
 
