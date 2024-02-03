@@ -1,3 +1,10 @@
+<a href="https://www.linkedin.com/in/tauras-burneika/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</br>
+</br>
+</br>
+
 ## About Me ✨💬 
 A dedicated Business Analytics student pursuing a BSc at the University of Amsterdam. Currently, finishing on enhancing my Data Analytics skills through a rigorous upskilling program at Turing College, a WoolfColleges associate.
 
@@ -55,12 +62,7 @@ Feel free to explore my repositories to see my projects and contributions. I am 
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-tauras_burneika-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haany-ali)
-</br>
-</br>
-</br>
-<a href="https://www.linkedin.com/in/tauras-burneika/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-tauras_burneika-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haany-ali)-->
+
 *************
 
