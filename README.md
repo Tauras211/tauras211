@@ -5,11 +5,10 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=tauras211" alt="TaurasBurneika" />
-<img src="https://img.shields.io/badge/📃_CV-000000?style=for-the-badge" />
 
 
 
-<a href="https://raw.githubusercontent.com/tauras211/tauras211/master/filename">
+<a href="https://raw.githubusercontent.com/tauras211/tauras211/master/CV_TaurasBurneika.pdf">
 <img src="https://img.shields.io/badge/📃_CV-000000?style=for-the-badge" />
 </a>
 
