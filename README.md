@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/tauras-burneika/">
-<img src="https://img.shields.io/badge/Tauras_Burneika-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Tauras-Burneika-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 asd
 <a href="mailto:torro.bu@gmail.com">
