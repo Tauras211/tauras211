@@ -6,8 +6,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tauras211" alt="TaurasBurneika" /> </p>
+<img src="https://komarev.com/ghpvc/?username=tauras211" alt="TaurasBurneika" />
 </br>
 </br>
 </br>
