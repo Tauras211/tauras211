@@ -72,15 +72,8 @@ Feel free to explore my repositories to see my projects and contributions. I am 
 </br>
 </br>
 </br>
-</br>
 
 
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
 
 *************
 
