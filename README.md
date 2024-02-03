@@ -4,23 +4,24 @@
 <a href="mailto:torro.bu@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://raw.githubusercontent.com/tauras211/tauras211/master/CV_TaurasBurneika.pdf">
+<img src="https://img.shields.io/badge/📃_CV-000000?style=for-the-badge" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=tauras211" alt="TaurasBurneika" />
 
 
 
-<a href="https://raw.githubusercontent.com/tauras211/tauras211/master/CV_TaurasBurneika.pdf">
-<img src="https://img.shields.io/badge/📃_CV-000000?style=for-the-badge" />
-</a>
 
 <h1 align='center'>
   Hi there 👋, I'm Tauras 👨‍💻
 </h1>
 </br>
-</br>
 <p align='center'>
 A dedicated Business Analytics student pursuing a BSc at the University of Amsterdam. Currently, finishing on enhancing my Data Analytics skills through a rigorous upskilling program at Turing College, a WoolfColleges associate.
 </p>
 
+</br>
+</br>
 <h1 align='center'> What I use </h1>
 <p align="center">
 
@@ -38,7 +39,7 @@ A dedicated Business Analytics student pursuing a BSc at the University of Amste
 </br>
 </br>
 <details>
-  <summary align='center'>📃📃📃 </summary>
+  <summary align='center'><h3>📃 Education 📃 </h3></summary>
 
 <h1 align='center'> 🎓Academic Background </h1>
 
@@ -58,8 +59,9 @@ A dedicated Business Analytics student pursuing a BSc at the University of Amste
 📍**Vilnius Lyceum/IB** - Vilnius, Lithuania
 </details>
 
-
-<h1 align='center'> Skills and Interests </h1>
+</br>
+</br>
+<h2 align='center'> Skills and Interests </h2>
 <h3 align='center'>💰 Finance 📊 Data Analysis 📉 Statistical Analysis </br> 🤖 Machine Learning  📈 Business Intelligence </h3>
 
 
@@ -68,5 +70,7 @@ A dedicated Business Analytics student pursuing a BSc at the University of Amste
 <p align='center'>Feel free to explore my repositories to see my projects and contributions. I am passionate about leveraging data to drive informed decision-making. Let's connect and collaborate! </p>
 </br>
 </br>
-*************
+</br>
+</br>
+
 
