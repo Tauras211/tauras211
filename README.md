@@ -55,7 +55,7 @@ Feel free to explore my repositories to see my projects and contributions. I am 
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali)
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haany-ali)
 </br>
 </br>
 </br>
